@@ -14,8 +14,8 @@ public class Main {
 
         System.out.println("Algoritmo de Karatsuba:");
         Karatsuba karatsuba = new Karatsuba();
-        String resultadoKaratsuba = karatsuba.multiplicar(binario1, binario2);
-        System.out.println("Resultado binário: " + resultadoKaratsuba);
+        String resultado = karatsuba.multiplicar(binario1, binario2);
+        System.out.println("Resultado binário: " + resultado);
 
     }
 }
