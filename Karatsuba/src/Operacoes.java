@@ -1,4 +1,4 @@
-class Operacoes {
+public class Operacoes {
 
     public String somar(String binario1, String binario2) {
         StringBuilder resultado = new StringBuilder();
