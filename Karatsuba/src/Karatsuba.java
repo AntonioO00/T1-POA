@@ -1,5 +1,5 @@
 
-class Karatsuba {
+public class Karatsuba {
     private Operacoes operacoes = new Operacoes();
 
     public String multiplicar(String bin1, String bin2) {
